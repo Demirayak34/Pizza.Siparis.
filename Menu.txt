@@ -1,0 +1,103 @@
+- Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+- Lütfen Sos Seçin:
+11: Zeytin
+12: Mantar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+ Teþekkür ederiz!* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* ve seçeceðiniz sos:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
+* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* ve seçeceðiniz sos:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
+* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* Lütfen Sos Seçin:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
+* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* Lütfen Sos Seçin:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
+* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* Lütfen Sos Seçin:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
+* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* Lütfen Sos Seçin:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
+* Lütfen Bir Pizza Tabaný Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* Lütfen Sos Seçin:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soðan
+16: Mýsýr
+* Teþekkür ederiz!
