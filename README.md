@@ -1,2 +1,2 @@
 # Pizza.Siparis.
-Global Al Hub Python Bootcamp Projesi olarak kendimizce amatör bir şekilde pizza sipariş sistemi hazırlanmıştır.
+Global Al Hub Python Bootcamp Projesince bizden istenilen pizza sipariş sistemi hazırlanmıştır.
